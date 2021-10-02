@@ -1,2 +1,4 @@
-# spacy-bpemb
-BPEmb embeddings for spaCy
+# subspacy 
+
+Subword tricks for spaCy.
+
